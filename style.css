@@ -310,8 +310,3 @@ nav ul li a:hover::after {
 }
 
 /* MARK: Responsive section */
-@media only screen and (max-width: 600px) {
-    #header {
-        background-image: url();
-    }
-}
